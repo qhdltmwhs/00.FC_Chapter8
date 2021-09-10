@@ -1,4 +1,4 @@
-01. [나열된 수에서 최솟값과 최댓값 구하기](../00.FC_Chapter8/src/ch01/README.md)
+01. [나열된 수에서 최솟값과 최댓값 구하기](../../src/ch01/README.md)
 02. [정렬된 수에서 하나의 수의 위치 찾기(이진탐색)](../00.FC_Chapter8/src/ch02/README.md)
 03. [정렬 알고리즘](../00.FC_Chapter8/src/ch03/README.md)
 04. [DFS(Depth First Search)와 BFS(Breadth First Search)](../00.FC_Chapter8/src/ch04/README.md)
