@@ -14,7 +14,8 @@
 
   (즉 원래 w로 가던 거리보다 v를 거쳐 가는 거리가 더 가까우면 w로 가는 거리는 v를 거쳐가는 것으로 최단 거리를 수정)
 
-  Yw = Yv + Cvw if Yv + Cvw < Yw    
+  Yw = Yv + Cvw if Yv + Cvw < Yw
+  
 ```
 class MyGraph{
     private int count;   //노드 수           

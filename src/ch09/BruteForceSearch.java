@@ -21,8 +21,7 @@ public class BruteForceSearch {
 						for (i4 = i3; i4 >= 0; i4 -= bills[4]) {
 							
 							if (i4 % bills[5] == 0) count++;
-							//if (i4 % bills[5] == 0 && i0 != 50 && i0 != 0) count++;
-						
+							
 						}
 
 					} // 네번째 for문 end
